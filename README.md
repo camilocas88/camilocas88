@@ -7,7 +7,8 @@
 <p align="center">
   <a href="https://camilo-castillo.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/camilocas88"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:camilo.castro@rappicard.mx"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:camilo.castillo88@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/camilocastillodev/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://komarev.com/ghpvc/?username=camilocas88&style=for-the-badge&color=blueviolet" alt="Profile views"/>
 </p>
 
@@ -116,8 +117,8 @@ Python-based trading bot with risk management, market analysis, and automated st
 
 - 🌐 **Portfolio:** [camilo-castillo.vercel.app](https://camilo-castillo.vercel.app/)
 - 💻 **GitHub:** [@camilocas88](https://github.com/camilocas88)
-- 💼 **LinkedIn:** _coming soon_
-- 📧 **Email:** camilo.castro@rappicard.mx
+- 💼 **LinkedIn:** [@camilocastillodev](https://www.linkedin.com/in/camilocastillodev/)
+- 📧 **Email:** camilo.castillo88@outlook.com
 
 ---
 
